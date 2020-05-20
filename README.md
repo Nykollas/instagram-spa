@@ -1,4 +1,4 @@
-# Instadev React SPA (Parte 1)
+# Instadev React SPA 
 
 ## Objetivo:
 O desafio desta semana e da próxima será desenvolver um *SPA (Single Page Application)* mobile-first do **Instagram** em React, consumindo uma Rest API que deverá cumprir os seguintes critérios:
