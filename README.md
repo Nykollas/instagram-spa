@@ -248,3 +248,7 @@ Neste desafio você vai praticar os seus conhecimentos em:
 ## Requisitos:
 * **[Node v13.8.0](https://nodejs.org/en/)** - ou superior, instalado em seu computador.
 * **[Create React App](https://github.com/facebook/create-react-app)**
+
+##Preview
+
+![](https://firebasestorage.googleapis.com/v0/b/github-f7e0a.appspot.com/o/Screenshot_2020-05-20%20Instadev(1).jpg?alt=media&token=6203c7f0-f2fd-4eba-ac82-1c56b6f21f44)
